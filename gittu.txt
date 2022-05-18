@@ -1,0 +1,11 @@
+$ echo "# my-first-website" >> README.md
+
+$ git init
+
+$ git add .
+
+$ git commit -m "first ever commit"
+
+$ git remote add origin https://github.com/arpon-durjoy/my-first-website.git
+
+$ git push -u origin main
